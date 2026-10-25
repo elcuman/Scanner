@@ -12,4 +12,10 @@ Raporlar `reports/YYYY-MM-DD.md` olarak saklanır.
 
 ## Son rapor
 
-_Henüz rapor yok — ilk rapor bir sonraki sabah oluşturulacak._
+**[25 Ekim 2026](reports/2026-10-25.md)**
+
+> Günün öne çıkanı: Panche Isajeski, çalışanı olmayan ve işi AI ajanlarıyla yürüttüğü yatırımsız ödeme altyapısı AgentaOS'u lansmandan yaklaşık iki ay sonra 9.500 $ MRR'ın üzerine taşıdı; bunu reklam harcamadan, birebir iletişim ve "önce problemi anlatan" içerikle yaptı.
+
+- 🚀 **Solo girişimciler:** AgentaOS, CodedThemes, SocialKit & PostPeer, Zigpoll, Post Bridge
+- 🧩 **MCP sunucuları:** XERJ, rea, Financial Cents MCP, FXC Intelligence MCP, fairquery-agent-trust-mcp
+- ⭐ **GitHub repoları:** cloudflare/security-audit-skill, NVIDIA/OpenShell, anthropics/knowledge-work-plugins, stablyai/orca, Graphify-Labs/graphify
