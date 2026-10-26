@@ -12,10 +12,10 @@ Raporlar `reports/YYYY-MM-DD.md` olarak saklanır.
 
 ## Son rapor
 
-**[25 Ekim 2026](reports/2026-10-25.md)**
+**[26 Ekim 2026](reports/2026-10-26.md)**
 
-> Günün öne çıkanı: Panche Isajeski, çalışanı olmayan ve işi AI ajanlarıyla yürüttüğü yatırımsız ödeme altyapısı AgentaOS'u lansmandan yaklaşık iki ay sonra 9.500 $ MRR'ın üzerine taşıdı; bunu reklam harcamadan, birebir iletişim ve "önce problemi anlatan" içerikle yaptı.
+> Günün öne çıkanı: Abe Train, tek tam zamanlı çalışanı olduğu Trainwreck Labs'te ücretsiz tarayıcı oyunlarıyla (Globle vb.) üç yılda yedi haneli toplam gelire ulaştı; büyümeyi reklamla değil, oyunu doğru niş topluluğa (r/geography) bırakarak başlattı.
 
-- 🚀 **Solo girişimciler:** AgentaOS, CodedThemes, SocialKit & PostPeer, Zigpoll, Post Bridge
-- 🧩 **MCP sunucuları:** XERJ, rea, Financial Cents MCP, FXC Intelligence MCP, fairquery-agent-trust-mcp
-- ⭐ **GitHub repoları:** cloudflare/security-audit-skill, NVIDIA/OpenShell, anthropics/knowledge-work-plugins, stablyai/orca, Graphify-Labs/graphify
+- 🚀 **Solo girişimciler:** Trainwreck Labs (Globle), Vaultaire, ChatSEO, Bulk Mockup, Personal Best
+- 🧩 **MCP sunucuları:** ClicData MCP, Haystack MCP, CryptoQuant MCP, Notified MCP (beta), SaaS RFP Agent
+- ⭐ **GitHub repoları:** lexmount/moli, Panniantong/Agent-Reach, tester-army/e2e, experientiallabs/experiential, hugohe3/ppt-master
