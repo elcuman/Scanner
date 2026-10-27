@@ -12,10 +12,10 @@ Raporlar `reports/YYYY-MM-DD.md` olarak saklanır.
 
 ## Son rapor
 
-**[26 Ekim 2026](reports/2026-10-26.md)**
+**[27 Ekim 2026](reports/2026-10-27.md)**
 
-> Günün öne çıkanı: Abe Train, tek tam zamanlı çalışanı olduğu Trainwreck Labs'te ücretsiz tarayıcı oyunlarıyla (Globle vb.) üç yılda yedi haneli toplam gelire ulaştı; büyümeyi reklamla değil, oyunu doğru niş topluluğa (r/geography) bırakarak başlattı.
+> Günün öne çıkanı: Sebastian Röhl tek başına geliştirdiği HabitKit alışkanlık takip uygulamasıyla 2025'te yaklaşık 602 bin $ gelir elde etti; yeni kullanıcılarının ~%98'i reklamdan değil doğrudan App Store ve Google Play aramasından geliyor.
 
-- 🚀 **Solo girişimciler:** Trainwreck Labs (Globle), Vaultaire, ChatSEO, Bulk Mockup, Personal Best
-- 🧩 **MCP sunucuları:** ClicData MCP, Haystack MCP, CryptoQuant MCP, Notified MCP (beta), SaaS RFP Agent
-- ⭐ **GitHub repoları:** lexmount/moli, Panniantong/Agent-Reach, tester-army/e2e, experientiallabs/experiential, hugohe3/ppt-master
+- 🚀 **Solo girişimciler:** HabitKit, Polotno, ParakeetAI, Overcast (bugün 4 öğe)
+- 🧩 **MCP sunucuları:** NeuralVerge MCP, Formstep MCP, Delinea Fastpath MCP, ImageKit MCP, NotWorking
+- ⭐ **GitHub repoları:** Nutlope/hallmark, debpalash/VoiceStudio, makecindy/cindy, JetBrains/thinkrail, NVIDIA/SkillSpector
