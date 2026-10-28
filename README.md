@@ -19,3 +19,4 @@ Raporlar `reports/YYYY-MM-DD.md` olarak saklanır.
 - 🚀 **Solo girişimciler:** CSS for JavaScript Developers, GoRails, Refactoring UI, Rachel Jimenez (Etsy printables), ScreenshotOne
 - 🧩 **MCP sunucuları:** Rapid Indexer MCP, CloudCasa MCP, Telenow AI MCP, Magents, 9Router MCP
 - ⭐ **GitHub repoları:** gitroomhq/postiz-app, nightly-labs/openbot, HKUDS/DeepTutor, pbakaus/impeccable, affaan-m/ECC
+- 💸 **Kopyalanabilir siteler (TrustMRR):** Property Vendors, Dotmarket.eu, ConvertLabs, CartBoss, FriendFilter + GroupFilter, GitPage
