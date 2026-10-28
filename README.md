@@ -12,10 +12,10 @@ Raporlar `reports/YYYY-MM-DD.md` olarak saklanır.
 
 ## Son rapor
 
-**[27 Ekim 2026](reports/2026-10-27.md)**
+**[28 Ekim 2026](reports/2026-10-28.md)**
 
-> Günün öne çıkanı: Sebastian Röhl tek başına geliştirdiği HabitKit alışkanlık takip uygulamasıyla 2025'te yaklaşık 602 bin $ gelir elde etti; yeni kullanıcılarının ~%98'i reklamdan değil doğrudan App Store ve Google Play aramasından geliyor.
+> Günün öne çıkanı: Josh W. Comeau, henüz yarısı bitmiş CSS kursunun 7 günlük ön satışında hiç reklam vermeden 4.773 sipariş ve ~577 bin $ gelir elde etti; hedefi 50 bin $'dı ve satışın motoru lansmana kadar ~28 bine büyüttüğü e-posta listesiydi.
 
-- 🚀 **Solo girişimciler:** HabitKit, Polotno, ParakeetAI, Overcast (bugün 4 öğe)
-- 🧩 **MCP sunucuları:** NeuralVerge MCP, Formstep MCP, Delinea Fastpath MCP, ImageKit MCP, NotWorking
-- ⭐ **GitHub repoları:** Nutlope/hallmark, debpalash/VoiceStudio, makecindy/cindy, JetBrains/thinkrail, NVIDIA/SkillSpector
+- 🚀 **Solo girişimciler:** CSS for JavaScript Developers, GoRails, Refactoring UI, Rachel Jimenez (Etsy printables), ScreenshotOne
+- 🧩 **MCP sunucuları:** Rapid Indexer MCP, CloudCasa MCP, Telenow AI MCP, Magents, 9Router MCP
+- ⭐ **GitHub repoları:** gitroomhq/postiz-app, nightly-labs/openbot, HKUDS/DeepTutor, pbakaus/impeccable, affaan-m/ECC
