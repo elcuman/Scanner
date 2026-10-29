@@ -12,11 +12,11 @@ Raporlar `reports/YYYY-MM-DD.md` olarak saklanır.
 
 ## Son rapor
 
-**[28 Ekim 2026](reports/2026-10-28.md)**
+**[29 Ekim 2026](reports/2026-10-29.md)**
 
-> Günün öne çıkanı: Josh W. Comeau, henüz yarısı bitmiş CSS kursunun 7 günlük ön satışında hiç reklam vermeden 4.773 sipariş ve ~577 bin $ gelir elde etti; hedefi 50 bin $'dı ve satışın motoru lansmana kadar ~28 bine büyüttüğü e-posta listesiydi.
+> Günün öne çıkanı: BAE'de yarı zamanlı çalışan tek kişilik kurucu Kourosh Ghaffari, sesle yazdırma uygulaması Voicy'yi ağırlıkla SEO ile Stripe'tan doğrulanmış 12.467 $ MRR'a ve 1.536 aktif aboneliğe taşıdı; şüpheyle baktığı arama trafiği büyümenin ana motoru oldu.
 
-- 🚀 **Solo girişimciler:** CSS for JavaScript Developers, GoRails, Refactoring UI, Rachel Jimenez (Etsy printables), ScreenshotOne
-- 🧩 **MCP sunucuları:** Rapid Indexer MCP, CloudCasa MCP, Telenow AI MCP, Magents, 9Router MCP
-- ⭐ **GitHub repoları:** gitroomhq/postiz-app, nightly-labs/openbot, HKUDS/DeepTutor, pbakaus/impeccable, affaan-m/ECC
-- 💸 **Kopyalanabilir siteler (TrustMRR):** Property Vendors, Dotmarket.eu, ConvertLabs, CartBoss, FriendFilter + GroupFilter, GitPage
+- 🚀 **Solo girişimciler:** Voicy, Baddies and Budgets, Cassiy Johnson (Etsy POD), Bumblebee Linens + MyWifeQuitHerJob, pixivFANBOX illüstratörü
+- 🧩 **MCP sunucuları:** Meta Social Technologies MCP, Airbyte MCP, SociaHive MCP, Tanod, Chatpack
+- ⭐ **GitHub repoları:** elayadesign/ai-design-skills, macro-inc/macro, obra/superpowers, expo/skills, ruvnet/RuView
+- 💸 **Kopyalanabilir siteler (TrustMRR):** traxy.ai, SoldComps, Pushouse, Frameblox, Easy Moving Permits
