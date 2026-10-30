@@ -12,11 +12,11 @@ Raporlar `reports/YYYY-MM-DD.md` olarak saklanır.
 
 ## Son rapor
 
-**[29 Ekim 2026](reports/2026-10-29.md)**
+**[30 Ekim 2026](reports/2026-10-30.md)**
 
-> Günün öne çıkanı: BAE'de yarı zamanlı çalışan tek kişilik kurucu Kourosh Ghaffari, sesle yazdırma uygulaması Voicy'yi ağırlıkla SEO ile Stripe'tan doğrulanmış 12.467 $ MRR'a ve 1.536 aktif aboneliğe taşıdı; şüpheyle baktığı arama trafiği büyümenin ana motoru oldu.
+> Günün öne çıkanı: Tek kişilik kurucu Bryce'ın, Apple Store'larda belirli iPhone modelinin stoğa girdiğini haber veren Store Stock Checker'ı, Ekim 2026'da kurulmasına rağmen TrustMRR'da 2.116 aktif abonelik ve 15.900 $ MRR gösteriyor; tek bir dar ve acil soruya cevap veren bir bildirim aracı haftalar içinde para kazanmaya başladı.
 
-- 🚀 **Solo girişimciler:** Voicy, Baddies and Budgets, Cassiy Johnson (Etsy POD), Bumblebee Linens + MyWifeQuitHerJob, pixivFANBOX illüstratörü
-- 🧩 **MCP sunucuları:** Meta Social Technologies MCP, Airbyte MCP, SociaHive MCP, Tanod, Chatpack
-- ⭐ **GitHub repoları:** elayadesign/ai-design-skills, macro-inc/macro, obra/superpowers, expo/skills, ruvnet/RuView
-- 💸 **Kopyalanabilir siteler (TrustMRR):** traxy.ai, SoldComps, Pushouse, Frameblox, Easy Moving Permits
+- 🚀 **Solo girişimciler:** Store Stock Checker, ProjectionLab, ERP SOAP→REST proxy (anonim), Easy Folders, Pretty Arrow
+- 🧩 **MCP sunucuları:** Suno MCP, WAHA, Nitrosend MCP, Showtime, MoneyChoice MCP
+- ⭐ **GitHub repoları:** t3dotgg/tstack, TauricResearch/TradingAgents, AgriciDaniel/claude-seo, enesozturk/dimensional-drawing, morganlinton/BeautifulRust
+- 💸 **Kopyalanabilir siteler (TrustMRR):** PDF Vault, 1Lookup, Get Funneled, LinkPost, Knightvision
