@@ -12,11 +12,11 @@ Raporlar `reports/YYYY-MM-DD.md` olarak saklanır.
 
 ## Son rapor
 
-**[30 Ekim 2026](reports/2026-10-30.md)**
+**[31 Ekim 2026](reports/2026-10-31.md)**
 
-> Günün öne çıkanı: Tek kişilik kurucu Bryce'ın, Apple Store'larda belirli iPhone modelinin stoğa girdiğini haber veren Store Stock Checker'ı, Ekim 2026'da kurulmasına rağmen TrustMRR'da 2.116 aktif abonelik ve 15.900 $ MRR gösteriyor; tek bir dar ve acil soruya cevap veren bir bildirim aracı haftalar içinde para kazanmaya başladı.
+> Günün öne çıkanı: Vineeth'in iş arayanlar adına kuruculara soğuk e-posta atıp başvuruları takip eden Aarivi'si, 26 Eylül 2026'da kurulmasına rağmen TrustMRR'da 1.627 $ MRR ve son 30 günde %2.878 büyüme gösteriyor. "Ajan senin yerine ulaşsın" modeli, bir ay içinde para kazanmaya başladı.
 
-- 🚀 **Solo girişimciler:** Store Stock Checker, ProjectionLab, ERP SOAP→REST proxy (anonim), Easy Folders, Pretty Arrow
-- 🧩 **MCP sunucuları:** Suno MCP, WAHA, Nitrosend MCP, Showtime, MoneyChoice MCP
-- ⭐ **GitHub repoları:** t3dotgg/tstack, TauricResearch/TradingAgents, AgriciDaniel/claude-seo, enesozturk/dimensional-drawing, morganlinton/BeautifulRust
-- 💸 **Kopyalanabilir siteler (TrustMRR):** PDF Vault, 1Lookup, Get Funneled, LinkPost, Knightvision
+- 🚀 **Solo girişimciler:** Aarivi, Intentsly, Static Forms, FlipScan, helumi
+- 🧩 **MCP sunucuları:** Unbrowse, PipesHub, Sentry Toolkit, ComplyEaze Bridge, Porkbun MCP
+- ⭐ **GitHub repoları:** unclebob/ub-mode, andyhuo520/digital-human-koubo, Motionsites-AI/claude-skill, interplains/Zero-Breach-Toolkit, rddmwmddr/android-ad-cleaner
+- 💸 **Kopyalanabilir siteler (TrustMRR):** kdpbook.io, WhoGoes, anonim pazar yeri ilan bulucu, Printotr Aı, BasinCheck
