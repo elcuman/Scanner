@@ -12,11 +12,11 @@ Raporlar `reports/YYYY-MM-DD.md` olarak saklanır.
 
 ## Son rapor
 
-**[31 Ekim 2026](reports/2026-10-31.md)**
+**[1 Kasım 2026](reports/2026-11-01.md)**
 
-> Günün öne çıkanı: Vineeth'in iş arayanlar adına kuruculara soğuk e-posta atıp başvuruları takip eden Aarivi'si, 26 Eylül 2026'da kurulmasına rağmen TrustMRR'da 1.627 $ MRR ve son 30 günde %2.878 büyüme gösteriyor. "Ajan senin yerine ulaşsın" modeli, bir ay içinde para kazanmaya başladı.
+> Günün öne çıkanı: Kendall Tart'ın Discord sunucu sahiplerine "sunucunun içinde mağaza" kuran Cosmo'su, Kasım 2025'te kurulmasına rağmen TrustMRR'da yalnızca 45 aktif abonelikle 17.325 $ MRR gösteriyor. Kitle zaten toplanmışsa az sayıda müşteriye yüksek değerli altyapı satmak yetiyor.
 
-- 🚀 **Solo girişimciler:** Aarivi, Intentsly, Static Forms, FlipScan, helumi
-- 🧩 **MCP sunucuları:** Unbrowse, PipesHub, Sentry Toolkit, ComplyEaze Bridge, Porkbun MCP
-- ⭐ **GitHub repoları:** unclebob/ub-mode, andyhuo520/digital-human-koubo, Motionsites-AI/claude-skill, interplains/Zero-Breach-Toolkit, rddmwmddr/android-ad-cleaner
-- 💸 **Kopyalanabilir siteler (TrustMRR):** kdpbook.io, WhoGoes, anonim pazar yeri ilan bulucu, Printotr Aı, BasinCheck
+- 🚀 **Solo girişimciler:** Cosmo, Flipify, Screenshot to Code, Georgian APPA, 20-0
+- 🧩 **MCP sunucuları:** DeepScout MCP, Hoplix Print-on-Demand MCP, anomalyco/browse, Agent-Cockpit, admin-os
+- ⭐ **GitHub repoları:** deepseek-ai/dsh-superagent-prototype, google/elephant-goldfish-model, heydamir/unslop, microsoft/TokenEconomizer, wangzan101/Mika
+- 💸 **Kopyalanabilir siteler (TrustMRR):** Bali Villa Hub, DirectRoles, 3D-AGENT, anonim TV kumandası uygulaması, Microns
