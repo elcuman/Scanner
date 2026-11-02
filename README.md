@@ -12,11 +12,11 @@ Raporlar `reports/YYYY-MM-DD.md` olarak saklanır.
 
 ## Son rapor
 
-**[1 Kasım 2026](reports/2026-11-01.md)**
+**[2 Kasım 2026](reports/2026-11-02.md)**
 
-> Günün öne çıkanı: Kendall Tart'ın Discord sunucu sahiplerine "sunucunun içinde mağaza" kuran Cosmo'su, Kasım 2025'te kurulmasına rağmen TrustMRR'da yalnızca 45 aktif abonelikle 17.325 $ MRR gösteriyor. Kitle zaten toplanmışsa az sayıda müşteriye yüksek değerli altyapı satmak yetiyor.
+> Günün öne çıkanı: Rashid Khasanov'un Angel Match'i, ~124 bin melek yatırımcı ve VC'den oluşan bir veritabanına abonelik satarak TrustMRR'da 27.098 $ MRR ve yaklaşık 987 bin $ toplam gelir gösteriyor. Doğru kitleye satılan, düzenli güncellenen bir liste tek başına bir iş modeli olabiliyor.
 
-- 🚀 **Solo girişimciler:** Cosmo, Flipify, Screenshot to Code, Georgian APPA, 20-0
-- 🧩 **MCP sunucuları:** DeepScout MCP, Hoplix Print-on-Demand MCP, anomalyco/browse, Agent-Cockpit, admin-os
-- ⭐ **GitHub repoları:** deepseek-ai/dsh-superagent-prototype, google/elephant-goldfish-model, heydamir/unslop, microsoft/TokenEconomizer, wangzan101/Mika
-- 💸 **Kopyalanabilir siteler (TrustMRR):** Bali Villa Hub, DirectRoles, 3D-AGENT, anonim TV kumandası uygulaması, Microns
+- 🚀 **Solo girişimciler:** Angel Match, Lancer.app, Juiced Leads, Getlead, ViralSpy
+- 🧩 **MCP sunucuları:** radar-cnpj-mcp, synology-nas-cli, excalidraw-boards, Orangescrum MCP, topopt
+- ⭐ **GitHub repoları:** pingdotgg/t3code, lightpanda-io/browser, vercel-labs/agent-desktop, CopilotKit/OpenBot, caru-ini/stack-diagram
+- 💸 **Kopyalanabilir siteler (TrustMRR):** Leadbomb, The Engine, zescale, Obscreen, 100PercentMarket
