@@ -12,11 +12,11 @@ Raporlar `reports/YYYY-MM-DD.md` olarak saklanır.
 
 ## Son rapor
 
-**[2 Kasım 2026](reports/2026-11-02.md)**
+**[3 Kasım 2026](reports/2026-11-03.md)**
 
-> Günün öne çıkanı: Rashid Khasanov'un Angel Match'i, ~124 bin melek yatırımcı ve VC'den oluşan bir veritabanına abonelik satarak TrustMRR'da 27.098 $ MRR ve yaklaşık 987 bin $ toplam gelir gösteriyor. Doğru kitleye satılan, düzenli güncellenen bir liste tek başına bir iş modeli olabiliyor.
+> Günün öne çıkanı: John Sokol'un LeadX'i, kredi ve ekipman finansmanı ekiplerine şirket/kişi verisi ve CRM zenginleştirme satarak yalnızca 18 aktif abonelikle TrustMRR'da 31.028 $ MRR gösteriyor; abonelik başına ~1.700 $. Dar bir B2B dikeye satılan veri, geniş kitleye satılan ucuz listeden çok daha değerli olabiliyor.
 
-- 🚀 **Solo girişimciler:** Angel Match, Lancer.app, Juiced Leads, Getlead, ViralSpy
-- 🧩 **MCP sunucuları:** radar-cnpj-mcp, synology-nas-cli, excalidraw-boards, Orangescrum MCP, topopt
-- ⭐ **GitHub repoları:** pingdotgg/t3code, lightpanda-io/browser, vercel-labs/agent-desktop, CopilotKit/OpenBot, caru-ini/stack-diagram
-- 💸 **Kopyalanabilir siteler (TrustMRR):** Leadbomb, The Engine, zescale, Obscreen, 100PercentMarket
+- 🚀 **Solo girişimciler:** LeadX, DM Champ, Figmentor, ThreadRecap, SignWith
+- 🧩 **MCP sunucuları:** kanzo, agentring, cheap-ag, phone-harness, leis-mcp
+- ⭐ **GitHub repoları:** storytold/craft-anything, patch-gg/pixelfx, haydenschmitty/floorplan, ZiChuanLan/agent-purge, Shaitrish/37studio
+- 💸 **Kopyalanabilir siteler (TrustMRR):** Send Letters Online UK, PatentFig, VoxNow, ADAWCAG, MeltKit
