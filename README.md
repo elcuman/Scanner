@@ -12,11 +12,11 @@ Raporlar `reports/YYYY-MM-DD.md` olarak saklanır.
 
 ## Son rapor
 
-**[3 Kasım 2026](reports/2026-11-03.md)**
+**[4 Kasım 2026](reports/2026-11-04.md)**
 
-> Günün öne çıkanı: John Sokol'un LeadX'i, kredi ve ekipman finansmanı ekiplerine şirket/kişi verisi ve CRM zenginleştirme satarak yalnızca 18 aktif abonelikle TrustMRR'da 31.028 $ MRR gösteriyor; abonelik başına ~1.700 $. Dar bir B2B dikeye satılan veri, geniş kitleye satılan ucuz listeden çok daha değerli olabiliyor.
+> Günün öne çıkanı: Filip Panoski'nin Bazzly'si, Reddit'teki "hangi aracı kullanmalıyım?" gönderilerini müşteriye çeviren tek bir 199 $/ay plan satarak TrustMRR'da 29.659 $ MRR ve aylık %92 büyüme gösteriyor; kurucu aynı Reddit yöntemini önce kendi ürününü büyütmek için kullanmış.
 
-- 🚀 **Solo girişimciler:** LeadX, DM Champ, Figmentor, ThreadRecap, SignWith
-- 🧩 **MCP sunucuları:** kanzo, agentring, cheap-ag, phone-harness, leis-mcp
-- ⭐ **GitHub repoları:** storytold/craft-anything, patch-gg/pixelfx, haydenschmitty/floorplan, ZiChuanLan/agent-purge, Shaitrish/37studio
-- 💸 **Kopyalanabilir siteler (TrustMRR):** Send Letters Online UK, PatentFig, VoxNow, ADAWCAG, MeltKit
+- 🚀 **Solo girişimciler:** Bazzly, Web3Forms, LeadsByLocation, TinyAdz, StartClaw
+- 🧩 **MCP sunucuları:** m7-mcp-oss, mem-forge, halfnine, mi-sii-mcp, laravel-mcp-bridge
+- ⭐ **GitHub repoları:** modelflare-ai/AnyModelBot, lexifina/global-law, NiazMorshed2007/reanimate, KKKKhazix/agent-autoloop, mhfed/vn-law-check
+- 💸 **Kopyalanabilir siteler (TrustMRR):** DirectB2BLeads, Launchbuff, PlugMonkey, AppMockupGenerator
