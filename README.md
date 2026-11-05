@@ -12,11 +12,11 @@ Raporlar `reports/YYYY-MM-DD.md` olarak saklanır.
 
 ## Son rapor
 
-**[4 Kasım 2026](reports/2026-11-04.md)**
+**[5 Kasım 2026](reports/2026-11-05.md)**
 
-> Günün öne çıkanı: Filip Panoski'nin Bazzly'si, Reddit'teki "hangi aracı kullanmalıyım?" gönderilerini müşteriye çeviren tek bir 199 $/ay plan satarak TrustMRR'da 29.659 $ MRR ve aylık %92 büyüme gösteriyor; kurucu aynı Reddit yöntemini önce kendi ürününü büyütmek için kullanmış.
+> Günün öne çıkanı: Fox'un tek seferlik 99 $'lık dizin şablonu Mkdirs, yaklaşık 350 kullanıcıya satılarak TrustMRR'da doğrulanmış 36.555 $ toplam gelire ulaştı; aynı gün listedeki üç ürün daha (Startup Fame, Launch Llama Tools, Directory Launch) dizin işinden para kazanıyor.
 
-- 🚀 **Solo girişimciler:** Bazzly, Web3Forms, LeadsByLocation, TinyAdz, StartClaw
-- 🧩 **MCP sunucuları:** m7-mcp-oss, mem-forge, halfnine, mi-sii-mcp, laravel-mcp-bridge
-- ⭐ **GitHub repoları:** modelflare-ai/AnyModelBot, lexifina/global-law, NiazMorshed2007/reanimate, KKKKhazix/agent-autoloop, mhfed/vn-law-check
-- 💸 **Kopyalanabilir siteler (TrustMRR):** DirectB2BLeads, Launchbuff, PlugMonkey, AppMockupGenerator
+- 🚀 **Solo girişimciler:** Mkdirs, Startup Fame, Launch Llama Tools, Ryan Doyle'un gizli ürünü, Ashish B'nin gizli ürünü (pinsuite)
+- 🧩 **MCP sunucuları:** muse4ai, strobe, apidrifter, handle-mcp, iran-jobs-mcp
+- ⭐ **GitHub repoları:** elvarofficial/teardown, mromidev/claude-animated-shorts, JuneYaooo/rea-video, rerun-build/rerun, brightsongwrath/personal-data-deletor-osint
+- 💸 **Kopyalanabilir siteler (TrustMRR):** GoBiz SaaS, Directory Launch, leadfinder, ScrapeAtlas, Notionlytics
