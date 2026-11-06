@@ -12,11 +12,11 @@ Raporlar `reports/YYYY-MM-DD.md` olarak saklanır.
 
 ## Son rapor
 
-**[5 Kasım 2026](reports/2026-11-05.md)**
+**[6 Kasım 2026](reports/2026-11-06.md)**
 
-> Günün öne çıkanı: Fox'un tek seferlik 99 $'lık dizin şablonu Mkdirs, yaklaşık 350 kullanıcıya satılarak TrustMRR'da doğrulanmış 36.555 $ toplam gelire ulaştı; aynı gün listedeki üç ürün daha (Startup Fame, Launch Llama Tools, Directory Launch) dizin işinden para kazanıyor.
+> Günün öne çıkanı: İspanya'dan "Iker"in tek tıkla belgesel tarzı YouTube videosu üreten gizli ürünü, Temmuz 2026'da kurulmuş olmasına rağmen TrustMRR'da doğrulanmış 73.412 $ MRR'a, 1.576 aktif aboneliğe ve aylık %71 büyümeye ulaştı. Dışarıdan yatırım almamış.
 
-- 🚀 **Solo girişimciler:** Mkdirs, Startup Fame, Launch Llama Tools, Ryan Doyle'un gizli ürünü, Ashish B'nin gizli ürünü (pinsuite)
-- 🧩 **MCP sunucuları:** muse4ai, strobe, apidrifter, handle-mcp, iran-jobs-mcp
-- ⭐ **GitHub repoları:** elvarofficial/teardown, mromidev/claude-animated-shorts, JuneYaooo/rea-video, rerun-build/rerun, brightsongwrath/personal-data-deletor-osint
-- 💸 **Kopyalanabilir siteler (TrustMRR):** GoBiz SaaS, Directory Launch, leadfinder, ScrapeAtlas, Notionlytics
+- 🚀 **Solo girişimciler:** Iker'in gizli ürünü, Frutti, Hite (UseHite), ReplyCurrent, Habit Pixel
+- 🧩 **MCP sunucuları:** Positron MCP (Posit), MSP360 MCP Server, poki, llm-wiki-compiler, betterlytics
+- ⭐ **GitHub repoları:** Balanov/uncut, wquguru/cicada, kevintngo/looseleaf, govijr/terminal-mac, Verlintas/NOIR
+- 💸 **Kopyalanabilir siteler (TrustMRR):** Quicklead, Penmo, LeadToSheet, Lin & Lore
