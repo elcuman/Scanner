@@ -12,11 +12,11 @@ Raporlar `reports/YYYY-MM-DD.md` olarak saklanır.
 
 ## Son rapor
 
-**[6 Kasım 2026](reports/2026-11-06.md)**
+**[7 Kasım 2026](reports/2026-11-07.md)**
 
-> Günün öne çıkanı: İspanya'dan "Iker"in tek tıkla belgesel tarzı YouTube videosu üreten gizli ürünü, Temmuz 2026'da kurulmuş olmasına rağmen TrustMRR'da doğrulanmış 73.412 $ MRR'a, 1.576 aktif aboneliğe ve aylık %71 büyümeye ulaştı. Dışarıdan yatırım almamış.
+> Günün öne çıkanı: Tek kişilik, yatırımsız girişim Tiny Startups, kurucuların "istediğin kadar öde" modeliyle listelendiği basit bir lansman dizini. TrustMRR'da doğrulanmış toplam geliri 182.732 $, son 30 günde 4.353 $ kazandı ve bu bir önceki aya göre %62 artış.
 
-- 🚀 **Solo girişimciler:** Iker'in gizli ürünü, Frutti, Hite (UseHite), ReplyCurrent, Habit Pixel
-- 🧩 **MCP sunucuları:** Positron MCP (Posit), MSP360 MCP Server, poki, llm-wiki-compiler, betterlytics
-- ⭐ **GitHub repoları:** Balanov/uncut, wquguru/cicada, kevintngo/looseleaf, govijr/terminal-mac, Verlintas/NOIR
-- 💸 **Kopyalanabilir siteler (TrustMRR):** Quicklead, Penmo, LeadToSheet, Lin & Lore
+- 🚀 **Solo girişimciler:** Tiny Startups, Alchie, NotFair, Data Bloo, 5 Day Sprint
+- 🧩 **MCP sunucuları:** POSaBIT MCP, Loova MCP, auto-ontology-mcp, kanareika, ny-data-registry-mcp
+- ⭐ **GitHub repoları:** N1nEmAn/sapper-v2, daveebbelaar/bama, Sandflow-ai/sand3d, libracoder/kiri, voyager-so/vork
+- 💸 **Kopyalanabilir siteler (TrustMRR):** thecontentcook, SaasNiche, SendRoq, 1FoodMenu, Leadsmint
