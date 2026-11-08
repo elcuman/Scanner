@@ -12,11 +12,11 @@ Raporlar `reports/YYYY-MM-DD.md` olarak saklanır.
 
 ## Son rapor
 
-**[7 Kasım 2026](reports/2026-11-07.md)**
+**[8 Kasım 2026](reports/2026-11-08.md)**
 
-> Günün öne çıkanı: Tek kişilik, yatırımsız girişim Tiny Startups, kurucuların "istediğin kadar öde" modeliyle listelendiği basit bir lansman dizini. TrustMRR'da doğrulanmış toplam geliri 182.732 $, son 30 günde 4.353 $ kazandı ve bu bir önceki aya göre %62 artış.
+> Günün öne çıkanı: İsviçreli tek kişilik, yatırımsız girişim notis.ai, WhatsApp'a gönderilen sesli notları ve mesajları görev ve notlara çeviren bir asistan. TrustMRR'da Stripe ile doğrulanmış 13.592 $ MRR'ı, 437 aktif aboneliği ve 243.297 $ toplam geliri var.
 
-- 🚀 **Solo girişimciler:** Tiny Startups, Alchie, NotFair, Data Bloo, 5 Day Sprint
-- 🧩 **MCP sunucuları:** POSaBIT MCP, Loova MCP, auto-ontology-mcp, kanareika, ny-data-registry-mcp
-- ⭐ **GitHub repoları:** N1nEmAn/sapper-v2, daveebbelaar/bama, Sandflow-ai/sand3d, libracoder/kiri, voyager-so/vork
-- 💸 **Kopyalanabilir siteler (TrustMRR):** thecontentcook, SaasNiche, SendRoq, 1FoodMenu, Leadsmint
+- 🚀 **Solo girişimciler:** notis.ai, Social Fetch, INXANITY Labs, Mastros.online, Subtitle Downloader
+- 🧩 **MCP sunucuları:** sandbox-mcp, mouseketool, google-search-console-mcp, mcp-auditor, enginewright
+- ⭐ **GitHub repoları:** s1dashu/quiet-md, sarpstar/cinecode, shanselman/gputaskman, artemnovitckii/claude-animation-skills, SAOS-3624/dsh-see-now
+- 💸 **Kopyalanabilir siteler (TrustMRR):** Refined Listings, Tarss, LeadLu, ScreenSmooth, SubmitMap
