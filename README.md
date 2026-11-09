@@ -12,11 +12,12 @@ Raporlar `reports/YYYY-MM-DD.md` olarak saklanır.
 
 ## Son rapor
 
-**[8 Kasım 2026](reports/2026-11-08.md)**
+**[9 Kasım 2026](reports/2026-11-09.md)**
 
-> Günün öne çıkanı: İsviçreli tek kişilik, yatırımsız girişim notis.ai, WhatsApp'a gönderilen sesli notları ve mesajları görev ve notlara çeviren bir asistan. TrustMRR'da Stripe ile doğrulanmış 13.592 $ MRR'ı, 437 aktif aboneliği ve 243.297 $ toplam geliri var.
+> Günün öne çıkanı: Tüm sosyal ağların verisini tek bir API'de toplayan SocialCrawl, TrustMRR'da son 30 günde 42.841 $ doğrulanmış gelir gösteriyor; "veriyi temizleyip API olarak satmak" lead/veri aracı geliştiren biri için bugün en net örnek.
 
-- 🚀 **Solo girişimciler:** notis.ai, Social Fetch, INXANITY Labs, Mastros.online, Subtitle Downloader
-- 🧩 **MCP sunucuları:** sandbox-mcp, mouseketool, google-search-console-mcp, mcp-auditor, enginewright
-- ⭐ **GitHub repoları:** s1dashu/quiet-md, sarpstar/cinecode, shanselman/gputaskman, artemnovitckii/claude-animation-skills, SAOS-3624/dsh-see-now
-- 💸 **Kopyalanabilir siteler (TrustMRR):** Refined Listings, Tarss, LeadLu, ScreenSmooth, SubmitMap
+- 🚀 **Solo girişimciler (3, sayfalar açılamadığı için kısıtlı):** SocialCrawl, Kortex-NotebookLM, Youtube to Transcript
+- 🧩 **MCP sunucuları:** Özdisan MCP, nestjs/mcp, evilsocket/tmail, google-ai-mode-mcp, vibe-shield
+- ⭐ **GitHub repoları:** DIYgod/pinky, lxe/phoneuse, devvmhq/devvm, phuryn/mini-harness, livliv-dev/player
+- 💸 **Kopyalanabilir siteler (TrustMRR):** Invomaker, No Code Web Scraper, SEC Filing PDF Generator, Add More Colors to Calendar
+
