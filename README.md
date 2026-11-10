@@ -12,12 +12,11 @@ Raporlar `reports/YYYY-MM-DD.md` olarak saklanır.
 
 ## Son rapor
 
-**[9 Kasım 2026](reports/2026-11-09.md)**
+**[10 Kasım 2026](reports/2026-11-10.md)**
 
-> Günün öne çıkanı: Tüm sosyal ağların verisini tek bir API'de toplayan SocialCrawl, TrustMRR'da son 30 günde 42.841 $ doğrulanmış gelir gösteriyor; "veriyi temizleyip API olarak satmak" lead/veri aracı geliştiren biri için bugün en net örnek.
+> Günün öne çıkanı: Tek kişilik ekip olarak listelenen Agent Launch, ürünleri 300+ dizine gönderen 149 $'lık tek seferlik bir araçla ve iki ücretsiz "mıknatıs" araçla (domain puanı kontrolü, dizin denetimi) iki ayda ilk geliri üretti; ücretsiz araçla müşteri çekip ücretli ürüne yönlendirmek, lead/veri aracı geliştiren biri için bugünün en uygulanabilir modeli.
 
-- 🚀 **Solo girişimciler (3, sayfalar açılamadığı için kısıtlı):** SocialCrawl, Kortex-NotebookLM, Youtube to Transcript
-- 🧩 **MCP sunucuları:** Özdisan MCP, nestjs/mcp, evilsocket/tmail, google-ai-mode-mcp, vibe-shield
-- ⭐ **GitHub repoları:** DIYgod/pinky, lxe/phoneuse, devvmhq/devvm, phuryn/mini-harness, livliv-dev/player
-- 💸 **Kopyalanabilir siteler (TrustMRR):** Invomaker, No Code Web Scraper, SEC Filing PDF Generator, Add More Colors to Calendar
-
+- 🚀 **Solo girişimciler:** ResuMax AI, Volume Booster, Agent Launch, GEHIRN.md, yapay zekâ metin dedektörü ("Private Enterprise")
+- 🧩 **MCP sunucuları:** ztd-charts, sozai-search-mcp, offload-mcp-server, webmcpx, domain-setup-mcp
+- ⭐ **GitHub repoları:** janestreet/agent_skills, egoist/mygo-music, kubai087/kubai-icons, drost-ai/tinker-ai-skill, yetone/rewind-for-x
+- 💸 **Kopyalanabilir siteler (TrustMRR):** Usagebar, Vid.AI, yapay zekâ video/foto uygulaması, Donkey Directory
