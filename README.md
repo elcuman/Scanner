@@ -12,11 +12,11 @@ Raporlar `reports/YYYY-MM-DD.md` olarak saklanır.
 
 ## Son rapor
 
-**[10 Kasım 2026](reports/2026-11-10.md)**
+**[11 Kasım 2026](reports/2026-11-11.md)**
 
-> Günün öne çıkanı: Tek kişilik ekip olarak listelenen Agent Launch, ürünleri 300+ dizine gönderen 149 $'lık tek seferlik bir araçla ve iki ücretsiz "mıknatıs" araçla (domain puanı kontrolü, dizin denetimi) iki ayda ilk geliri üretti; ücretsiz araçla müşteri çekip ücretli ürüne yönlendirmek, lead/veri aracı geliştiren biri için bugünün en uygulanabilir modeli.
+> Günün öne çıkanı: Temmuz 2026'da Fransa'da kurulan Lead Scorer, küçük B2B ekipler için bir "yapay zekâ SDR" aracı olarak dört ayda 12 aboneyle 1.466 $ MRR'a ulaştı ve aylık %38 büyüyor; dar bir kitleye pahalı ama net bir satış asistanı satmak, lead/veri aracı geliştiren biri için bugünün en doğrudan örneği.
 
-- 🚀 **Solo girişimciler:** ResuMax AI, Volume Booster, Agent Launch, GEHIRN.md, yapay zekâ metin dedektörü ("Private Enterprise")
-- 🧩 **MCP sunucuları:** ztd-charts, sozai-search-mcp, offload-mcp-server, webmcpx, domain-setup-mcp
-- ⭐ **GitHub repoları:** janestreet/agent_skills, egoist/mygo-music, kubai087/kubai-icons, drost-ai/tinker-ai-skill, yetone/rewind-for-x
-- 💸 **Kopyalanabilir siteler (TrustMRR):** Usagebar, Vid.AI, yapay zekâ video/foto uygulaması, Donkey Directory
+- 🚀 **Solo girişimciler:** TurboStarter, Draft AI, Dirstarter, Lead Scorer, Did I Do?
+- 🧩 **MCP sunucuları:** yandex-metrika-mcp, lasik, resp-polish, unit7, phonecall
+- ⭐ **GitHub repoları:** Pluviobyte/saas-growth-agents, yihui-dev/how-profitable-startups-grow, majorminorlabs/hermes-voice, dabingfy-dot/solo-to-team-skills, yucezerey/turkish-anti-ai-skill
+- 💸 **Kopyalanabilir siteler (TrustMRR):** BankConv, Reelfolio, WebLeads, Nativelaunch
