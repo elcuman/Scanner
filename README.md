@@ -12,11 +12,11 @@ Raporlar `reports/YYYY-MM-DD.md` olarak saklanır.
 
 ## Son rapor
 
-**[11 Kasım 2026](reports/2026-11-11.md)**
+**[12 Kasım 2026](reports/2026-11-12.md)**
 
-> Günün öne çıkanı: Temmuz 2026'da Fransa'da kurulan Lead Scorer, küçük B2B ekipler için bir "yapay zekâ SDR" aracı olarak dört ayda 12 aboneyle 1.466 $ MRR'a ulaştı ve aylık %38 büyüyor; dar bir kitleye pahalı ama net bir satış asistanı satmak, lead/veri aracı geliştiren biri için bugünün en doğrudan örneği.
+> Günün öne çıkanı: Tek kişilik ve yatırımsız Capacity Track, Minnesota'daki bakım kurumlarının anlık yatak müsaitliğini gösteren dikey bir rehber olarak bir yılda 37 aboneyle 1.863 $ MRR'a ulaştı; büyümesi yalnızca SEO, blog ve bültenden geliyor. Dar bir sektör için "güncel bilgi veren rehber + ücretli üyelik", B2B pazaryeri kuran biri için bugünün en doğrudan örneği.
 
-- 🚀 **Solo girişimciler:** TurboStarter, Draft AI, Dirstarter, Lead Scorer, Did I Do?
-- 🧩 **MCP sunucuları:** yandex-metrika-mcp, lasik, resp-polish, unit7, phonecall
-- ⭐ **GitHub repoları:** Pluviobyte/saas-growth-agents, yihui-dev/how-profitable-startups-grow, majorminorlabs/hermes-voice, dabingfy-dot/solo-to-team-skills, yucezerey/turkish-anti-ai-skill
-- 💸 **Kopyalanabilir siteler (TrustMRR):** BankConv, Reelfolio, WebLeads, Nativelaunch
+- 🚀 **Solo girişimciler:** Capacity Track, Huntly, Hidden Business (Ghuru Prasaath), Sentele, Keray352
+- 🧩 **MCP sunucuları:** deskstack, ruin-everything, damail, agent-vscreen, Woolly
+- ⭐ **GitHub repoları:** FrigadeHQ/yogurt, agentes-chat/agentes-chat, alexeyw/lot-map, Dodaios/ste80-humanizer, threerocks/article2media
+- 💸 **Kopyalanabilir siteler (TrustMRR):** Lantis, Salons en France, Candle Calculator, Incometax-genius
