@@ -12,11 +12,11 @@ Raporlar `reports/YYYY-MM-DD.md` olarak saklanır.
 
 ## Son rapor
 
-**[12 Kasım 2026](reports/2026-11-12.md)**
+**[13 Kasım 2026](reports/2026-11-13.md)**
 
-> Günün öne çıkanı: Tek kişilik ve yatırımsız Capacity Track, Minnesota'daki bakım kurumlarının anlık yatak müsaitliğini gösteren dikey bir rehber olarak bir yılda 37 aboneyle 1.863 $ MRR'a ulaştı; büyümesi yalnızca SEO, blog ve bültenden geliyor. Dar bir sektör için "güncel bilgi veren rehber + ücretli üyelik", B2B pazaryeri kuran biri için bugünün en doğrudan örneği.
+> Günün öne çıkanı: Avustralyalı Sagar Jani'nin Calcwidggets'ı, kredi brokerlarının sitelerine tek kod parçasıyla eklenen 30'dan fazla beyaz etiketli kredi/finans hesaplayıcısı satarak Nisan'dan bu yana 1.963 $ gelir ve 153 $ MRR'a ulaştı. "Bir mesleğin web sitesine gömülen hazır araç" fikri, KOBİ aracı geliştiren biri için bugünün en kolay kopyalanabilir modeli.
 
-- 🚀 **Solo girişimciler:** Capacity Track, Huntly, Hidden Business (Ghuru Prasaath), Sentele, Keray352
-- 🧩 **MCP sunucuları:** deskstack, ruin-everything, damail, agent-vscreen, Woolly
-- ⭐ **GitHub repoları:** FrigadeHQ/yogurt, agentes-chat/agentes-chat, alexeyw/lot-map, Dodaios/ste80-humanizer, threerocks/article2media
-- 💸 **Kopyalanabilir siteler (TrustMRR):** Lantis, Salons en France, Candle Calculator, Incometax-genius
+- 🚀 **Solo girişimciler:** Calcwidggets, LeadFinder.io, 1DevTool, Quick Claw, PostClaw
+- 🧩 **MCP sunucuları:** mutinybim, patty, insta-edits-for-claude, cvm-mcp, PeerHarness
+- ⭐ **GitHub repoları:** luobinger/PerkRadar, aronhy/pibrowse, serveroshq/panel, rivet-dev/open-orange, JDhruv14/line-art-animation
+- 💸 **Kopyalanabilir siteler (TrustMRR):** GoLeadX, Runmemories, AEO Engine (model olarak)
