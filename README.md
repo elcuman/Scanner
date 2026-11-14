@@ -12,11 +12,11 @@ Raporlar `reports/YYYY-MM-DD.md` olarak saklanır.
 
 ## Son rapor
 
-**[13 Kasım 2026](reports/2026-11-13.md)**
+**[14 Kasım 2026](reports/2026-11-14.md)**
 
-> Günün öne çıkanı: Avustralyalı Sagar Jani'nin Calcwidggets'ı, kredi brokerlarının sitelerine tek kod parçasıyla eklenen 30'dan fazla beyaz etiketli kredi/finans hesaplayıcısı satarak Nisan'dan bu yana 1.963 $ gelir ve 153 $ MRR'a ulaştı. "Bir mesleğin web sitesine gömülen hazır araç" fikri, KOBİ aracı geliştiren biri için bugünün en kolay kopyalanabilir modeli.
+> Günün öne çıkanı: Ocak 2026'da kurulan, 2–5 kişilik ve yatırımsız traxy.ai, sosyal medyayı dinleyip B2B lead listesi çıkaran tek planlı (149 $/ay) bir araçla 10 ayda 54.574 $ MRR'a ve 246 aktif aboneliğe ulaştı. "Sosyal sinyalden lead" fikri, lead/veri aracı geliştiren biri için bugünün en net kanıtı.
 
-- 🚀 **Solo girişimciler:** Calcwidggets, LeadFinder.io, 1DevTool, Quick Claw, PostClaw
-- 🧩 **MCP sunucuları:** mutinybim, patty, insta-edits-for-claude, cvm-mcp, PeerHarness
-- ⭐ **GitHub repoları:** luobinger/PerkRadar, aronhy/pibrowse, serveroshq/panel, rivet-dev/open-orange, JDhruv14/line-art-animation
-- 💸 **Kopyalanabilir siteler (TrustMRR):** GoLeadX, Runmemories, AEO Engine (model olarak)
+- 🚀 **Solo girişimciler:** traxy.ai, Pushouse, Fluxsales, Setter AI, TheMailSupply
+- 🧩 **MCP sunucuları:** Charles Schwab MCP, InfrOS MCP, copper-kicad-mcp, funnest-charts, rizamo-mcp
+- ⭐ **GitHub repoları:** gabrielbuzziv/emissor-nfse-nacional, opencoredev/islandcn, paulirish/chrome-capture, nickvasilescu/bot-hq, Moh4696/cinematic-skill
+- 💸 **Kopyalanabilir siteler (TrustMRR):** Yapay zekâ DM setter, Magnetic Funnels, Prymatica
