@@ -12,11 +12,11 @@ Raporlar `reports/YYYY-MM-DD.md` olarak saklanır.
 
 ## Son rapor
 
-**[14 Kasım 2026](reports/2026-11-14.md)**
+**[15 Kasım 2026](reports/2026-11-15.md)**
 
-> Günün öne çıkanı: Ocak 2026'da kurulan, 2–5 kişilik ve yatırımsız traxy.ai, sosyal medyayı dinleyip B2B lead listesi çıkaran tek planlı (149 $/ay) bir araçla 10 ayda 54.574 $ MRR'a ve 246 aktif aboneliğe ulaştı. "Sosyal sinyalden lead" fikri, lead/veri aracı geliştiren biri için bugünün en net kanıtı.
+> Günün öne çıkanı: Türkiye'den tek başına çalışan Sina Sinry, hazır yapay zekâ modellerini tek bir mobil uygulamada paketleyen Flibbo ile yatırımsız olarak ~55.000 $ MRR'a ulaştığını anlatıyor; büyümenin anahtarı, viral olmuş videoları yeniden üretip kısa bir eğitim ve indirme çağrısıyla yayınlamak.
 
-- 🚀 **Solo girişimciler:** traxy.ai, Pushouse, Fluxsales, Setter AI, TheMailSupply
-- 🧩 **MCP sunucuları:** Charles Schwab MCP, InfrOS MCP, copper-kicad-mcp, funnest-charts, rizamo-mcp
-- ⭐ **GitHub repoları:** gabrielbuzziv/emissor-nfse-nacional, opencoredev/islandcn, paulirish/chrome-capture, nickvasilescu/bot-hq, Moh4696/cinematic-skill
-- 💸 **Kopyalanabilir siteler (TrustMRR):** Yapay zekâ DM setter, Magnetic Funnels, Prymatica
+- 🚀 **Solo girişimciler:** Flibbo, Viktor Seraleev'in uygulama portföyü, SecureVibing, Chart Scanner AI, AI Toolbox
+- 🧩 **MCP sunucuları:** Azure Resource Manager MCP, Atlassian Rovo MCP v2, phonedriver, browserr, turnpack
+- ⭐ **GitHub repoları:** deepseek-ai/chat-demo, HybridRobotics/supermimic, ScottDuncanAI/PID-to-Knowledge-Graph, fendouai/ViralForge, IluvatarLabs/sitrep
+- 💸 **Kopyalanabilir siteler (TrustMRR):** Orshot, Formflow, Flowmance Templates, Notion-backend no-code aracı
