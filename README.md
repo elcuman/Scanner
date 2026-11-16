@@ -12,11 +12,11 @@ Raporlar `reports/YYYY-MM-DD.md` olarak saklanır.
 
 ## Son rapor
 
-**[15 Kasım 2026](reports/2026-11-15.md)**
+**[16 Kasım 2026](reports/2026-11-16.md)**
 
-> Günün öne çıkanı: Türkiye'den tek başına çalışan Sina Sinry, hazır yapay zekâ modellerini tek bir mobil uygulamada paketleyen Flibbo ile yatırımsız olarak ~55.000 $ MRR'a ulaştığını anlatıyor; büyümenin anahtarı, viral olmuş videoları yeniden üretip kısa bir eğitim ve indirme çağrısıyla yayınlamak.
+> Günün öne çıkanı: Tek başına ve yatırımsız çalışan Bennett Black, ajansların müşteri formunu hazır bir WordPress sitesine çeviren 1clickwebsite.ai ile 13.799 $ MRR'a ve 426 aktif aboneliğe ulaşmış (TrustMRR, Stripe ile doğrulanmış).
 
-- 🚀 **Solo girişimciler:** Flibbo, Viktor Seraleev'in uygulama portföyü, SecureVibing, Chart Scanner AI, AI Toolbox
-- 🧩 **MCP sunucuları:** Azure Resource Manager MCP, Atlassian Rovo MCP v2, phonedriver, browserr, turnpack
-- ⭐ **GitHub repoları:** deepseek-ai/chat-demo, HybridRobotics/supermimic, ScottDuncanAI/PID-to-Knowledge-Graph, fendouai/ViralForge, IluvatarLabs/sitrep
-- 💸 **Kopyalanabilir siteler (TrustMRR):** Orshot, Formflow, Flowmance Templates, Notion-backend no-code aracı
+- 🚀 **Solo girişimciler:** 1clickwebsite.ai, WPConvert.ai, Image-Charts, DJ müzik SaaS'ı (Tom Newman), Guidejar
+- 🧩 **MCP sunucuları:** turbo-browser-mcp, browser-hands, tau-linkedin-job-research-mcp, gws-mcp, mcp-verify
+- ⭐ **GitHub repoları:** expo/exact, ZiChuanLan/freebie-radar, TIGER-AI-Lab/WebsiteBench, simplexai-labs/linger, pmndrs/pine
+- 💸 **Kopyalanabilir siteler (TrustMRR):** Chariot AI, TV kumandası uygulaması, RESELLIFY, Amazon Reviews Extractor, IGMsg
