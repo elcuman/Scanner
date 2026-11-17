@@ -12,11 +12,11 @@ Raporlar `reports/YYYY-MM-DD.md` olarak saklanır.
 
 ## Son rapor
 
-**[16 Kasım 2026](reports/2026-11-16.md)**
+**[17 Kasım 2026](reports/2026-11-17.md)**
 
-> Günün öne çıkanı: Tek başına ve yatırımsız çalışan Bennett Black, ajansların müşteri formunu hazır bir WordPress sitesine çeviren 1clickwebsite.ai ile 13.799 $ MRR'a ve 426 aktif aboneliğe ulaşmış (TrustMRR, Stripe ile doğrulanmış).
+> Günün öne çıkanı: Charlie Clark, 2020'de tek başına ve yatırımsız kurduğu link-in-bio aracı Liinks'i ayda 5–12 $'lık planlarla 5.542 aktif aboneliğe ve 31.721 $ MRR'a taşımış; toplam geliri 1,8 milyon $'ı geçmiş (TrustMRR, Stripe ile doğrulanmış).
 
-- 🚀 **Solo girişimciler:** 1clickwebsite.ai, WPConvert.ai, Image-Charts, DJ müzik SaaS'ı (Tom Newman), Guidejar
-- 🧩 **MCP sunucuları:** turbo-browser-mcp, browser-hands, tau-linkedin-job-research-mcp, gws-mcp, mcp-verify
-- ⭐ **GitHub repoları:** expo/exact, ZiChuanLan/freebie-radar, TIGER-AI-Lab/WebsiteBench, simplexai-labs/linger, pmndrs/pine
-- 💸 **Kopyalanabilir siteler (TrustMRR):** Chariot AI, TV kumandası uygulaması, RESELLIFY, Amazon Reviews Extractor, IGMsg
+- 🚀 **Solo girişimciler:** Liinks, ColdSire, Scalereach.ai, AgenKit, Screeny
+- 🧩 **MCP sunucuları:** Poptin-MCP, enhancv/mcp-server, morajabi/poo, ReadAnyDoc, imap-mcp
+- ⭐ **GitHub repoları:** haziqahmedqasmi/PeakCut, n4ze3m/tiny-voca, higurashi-ai/Haru, berkantay/gpucanvas, CzzzzzzJ/mdldm-maitian
+- 💸 **Kopyalanabilir siteler (TrustMRR):** SubmitSaaS, ChatDash, Esferas.io, Productsfarm, SmartlyCV
