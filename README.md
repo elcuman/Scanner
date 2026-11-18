@@ -12,11 +12,11 @@ Raporlar `reports/YYYY-MM-DD.md` olarak saklanır.
 
 ## Son rapor
 
-**[17 Kasım 2026](reports/2026-11-17.md)**
+**[18 Kasım 2026](reports/2026-11-18.md)**
 
-> Günün öne çıkanı: Charlie Clark, 2020'de tek başına ve yatırımsız kurduğu link-in-bio aracı Liinks'i ayda 5–12 $'lık planlarla 5.542 aktif aboneliğe ve 31.721 $ MRR'a taşımış; toplam geliri 1,8 milyon $'ı geçmiş (TrustMRR, Stripe ile doğrulanmış).
+> Günün öne çıkanı: Burak Bayır, Mart 2026'da tek başına ve yatırımsız kurduğu X (Twitter) veri API'si Xquik'i sekiz ayda 90 aktif aboneliğe, 2.710 $ MRR'a ve 44.292 $ toplam gelire taşımış; dağıtımın önemli bir kısmı Apify mağazasındaki 22 hazır "actor" ve bir MCP sunucusu üzerinden geliyor (TrustMRR, Stripe ile doğrulanmış).
 
-- 🚀 **Solo girişimciler:** Liinks, ColdSire, Scalereach.ai, AgenKit, Screeny
-- 🧩 **MCP sunucuları:** Poptin-MCP, enhancv/mcp-server, morajabi/poo, ReadAnyDoc, imap-mcp
-- ⭐ **GitHub repoları:** haziqahmedqasmi/PeakCut, n4ze3m/tiny-voca, higurashi-ai/Haru, berkantay/gpucanvas, CzzzzzzJ/mdldm-maitian
-- 💸 **Kopyalanabilir siteler (TrustMRR):** SubmitSaaS, ChatDash, Esferas.io, Productsfarm, SmartlyCV
+- 🚀 **Solo girişimciler:** Xquik, The Engine, Directorly, Avium, Appointly UK
+- 🧩 **MCP sunucuları:** yocontra/pulsar, Andsu-dev/runelay, AgriciDaniel/dataforseo-agent, gordonbrander/zim-mcp, aileron-tech/wingbox
+- ⭐ **GitHub repoları:** erkamyaman/rust-anything, sybil-solutions/inference-optimisation-skill, chuanqisun/spaceship, yetanotherbrowser/yab, boringmarketer/boring-marketing-skills
+- 💸 **Kopyalanabilir siteler (TrustMRR):** Framer Export / ToStatic, Promethee (Eclipse), Mirofish AI, Checklist Routines, Post Bridge
