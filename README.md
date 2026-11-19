@@ -12,11 +12,11 @@ Raporlar `reports/YYYY-MM-DD.md` olarak saklanır.
 
 ## Son rapor
 
-**[18 Kasım 2026](reports/2026-11-18.md)**
+**[19 Kasım 2026](reports/2026-11-19.md)**
 
-> Günün öne çıkanı: Burak Bayır, Mart 2026'da tek başına ve yatırımsız kurduğu X (Twitter) veri API'si Xquik'i sekiz ayda 90 aktif aboneliğe, 2.710 $ MRR'a ve 44.292 $ toplam gelire taşımış; dağıtımın önemli bir kısmı Apify mağazasındaki 22 hazır "actor" ve bir MCP sunucusu üzerinden geliyor (TrustMRR, Stripe ile doğrulanmış).
+> Günün öne çıkanı: Bangladeşli kurucu Musharof, GPT, Claude ve Gemini'yi tek çalışma alanında toplayan Aymo AI'ı Eylül 2025'ten bu yana 473 aktif aboneliğe, 6.624 $ MRR'a ve 104.109 $ toplam gelire taşımış; planlar ayda 4 $'dan başlıyor (TrustMRR, Stripe ile doğrulanmış, 18 Kasım 2026).
 
-- 🚀 **Solo girişimciler:** Xquik, The Engine, Directorly, Avium, Appointly UK
-- 🧩 **MCP sunucuları:** yocontra/pulsar, Andsu-dev/runelay, AgriciDaniel/dataforseo-agent, gordonbrander/zim-mcp, aileron-tech/wingbox
-- ⭐ **GitHub repoları:** erkamyaman/rust-anything, sybil-solutions/inference-optimisation-skill, chuanqisun/spaceship, yetanotherbrowser/yab, boringmarketer/boring-marketing-skills
-- 💸 **Kopyalanabilir siteler (TrustMRR):** Framer Export / ToStatic, Promethee (Eclipse), Mirofish AI, Checklist Routines, Post Bridge
+- 🚀 **Solo girişimciler:** Aymo AI, Lancer.app, converti, WAZZAP AI, StartClaw
+- 🧩 **MCP sunucuları:** SecFathy/otpkit, axium-lab/mcp-mock, drtikov/microbrainsforagents, idlanyor/nusa-admin, AndrianLeah/craft-mcp-hub
+- ⭐ **GitHub repoları:** davidondrej/superbot, diego3g/craft, leostera/git-twig, replit/datacat, phasyn/phasyn-studio
+- 💸 **Kopyalanabilir siteler (TrustMRR):** AlgoFuse.ai, CartBoss, 1Lookup, Angel Match, LeadPrysm
