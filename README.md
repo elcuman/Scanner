@@ -12,11 +12,11 @@ Raporlar `reports/YYYY-MM-DD.md` olarak saklanır.
 
 ## Son rapor
 
-**[19 Kasım 2026](reports/2026-11-19.md)**
+**[20 Kasım 2026](reports/2026-11-20.md)**
 
-> Günün öne çıkanı: Bangladeşli kurucu Musharof, GPT, Claude ve Gemini'yi tek çalışma alanında toplayan Aymo AI'ı Eylül 2025'ten bu yana 473 aktif aboneliğe, 6.624 $ MRR'a ve 104.109 $ toplam gelire taşımış; planlar ayda 4 $'dan başlıyor (TrustMRR, Stripe ile doğrulanmış, 18 Kasım 2026).
+> Günün öne çıkanı: Ubaid Ur Rehman'ın Ağustos 2026'da kurduğu Prospo, web sitesi olmayan yerel işletmeleri bulup yapay zekâyla onlara site kuran ve satış mesajını da yazan bir araç; son 30 günde 14.591 $ gelir elde etmiş (TrustMRR, Stripe ile doğrulanmış, 19 Kasım 2026).
 
-- 🚀 **Solo girişimciler:** Aymo AI, Lancer.app, converti, WAZZAP AI, StartClaw
-- 🧩 **MCP sunucuları:** SecFathy/otpkit, axium-lab/mcp-mock, drtikov/microbrainsforagents, idlanyor/nusa-admin, AndrianLeah/craft-mcp-hub
-- ⭐ **GitHub repoları:** davidondrej/superbot, diego3g/craft, leostera/git-twig, replit/datacat, phasyn/phasyn-studio
-- 💸 **Kopyalanabilir siteler (TrustMRR):** AlgoFuse.ai, CartBoss, 1Lookup, Angel Match, LeadPrysm
+- 🚀 **Solo girişimciler:** Prospo, Next Level Builders, ECOMSTATEMENT.COM, Wysera, PocketDPE
+- 🧩 **MCP sunucuları:** Zinc hosted MCP, ysunyang4/Nexus, Faixiang/UI-Kit-Aggregator-MCP, jasonsutter87/sketchcraft, nebigoktug/android-agent
+- ⭐ **GitHub repoları:** iamajmeena/neonclipping, scarletkc/colab-playground, staryone/motlab, jackson-cmd/claude-multi-desktop, apple/creator-studio-doc-format
+- 💸 **Kopyalanabilir siteler (TrustMRR):** NoSite Search, businesseswithoutwebsite.com, TrustQR, Lowdeo, LINUXCERT.GURU
