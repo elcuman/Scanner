@@ -12,11 +12,11 @@ Raporlar `reports/YYYY-MM-DD.md` olarak saklanır.
 
 ## Son rapor
 
-**[20 Kasım 2026](reports/2026-11-20.md)**
+**[21 Kasım 2026](reports/2026-11-21.md)**
 
-> Günün öne çıkanı: Ubaid Ur Rehman'ın Ağustos 2026'da kurduğu Prospo, web sitesi olmayan yerel işletmeleri bulup yapay zekâyla onlara site kuran ve satış mesajını da yazan bir araç; son 30 günde 14.591 $ gelir elde etmiş (TrustMRR, Stripe ile doğrulanmış, 19 Kasım 2026).
+> Günün öne çıkanı: İki kurucunun dış yatırım almadan büyüttüğü yapay zekâ CRM'i SoftSync, Mayıs 2026'daki lansmanından altı ay sonra altı haneli MRR'a ulaştığını ve yalnızca Ekim'de gelirini %60 artırdığını açıkladı; ürünü yazmadan önce ~750 kurucu ve işletmeciyle görüşmüşler (EIN Presswire, 12 Kasım 2026).
 
-- 🚀 **Solo girişimciler:** Prospo, Next Level Builders, ECOMSTATEMENT.COM, Wysera, PocketDPE
-- 🧩 **MCP sunucuları:** Zinc hosted MCP, ysunyang4/Nexus, Faixiang/UI-Kit-Aggregator-MCP, jasonsutter87/sketchcraft, nebigoktug/android-agent
-- ⭐ **GitHub repoları:** iamajmeena/neonclipping, scarletkc/colab-playground, staryone/motlab, jackson-cmd/claude-multi-desktop, apple/creator-studio-doc-format
-- 💸 **Kopyalanabilir siteler (TrustMRR):** NoSite Search, businesseswithoutwebsite.com, TrustQR, Lowdeo, LINUXCERT.GURU
+- 🚀 **Solo girişimciler (4):** SoftSync, Getlead, AI Directories, DataFast
+- 🧩 **MCP sunucuları:** Astra MCP, Proof MCP (x401), ccarter01011/traxagent-claude-plugin, namiq-ai/devkb, jasonmello/pocket-design-mcp
+- ⭐ **GitHub repoları:** dmitrykurash/holospot, hackclub/orchard, replit/amuse, nickvasilescu/openman, imuratalpay/ui-diff
+- 💸 **Kopyalanabilir siteler (TrustMRR):** leadfinder, PlugMonkey Chrome Extensions Store, Notionlytics
